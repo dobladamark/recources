@@ -22,7 +22,7 @@
 - **[Coolors – Color Generator](https://coolors.co/)**
 - **[GetWaves – Wave Generator](https://getwaves.io/)**
 - **[Mesh Gradient Generator](https://webkul.github.io/mesh-gradient-generator/)**
-- **[Easing Gradients](https://easings.net/gradient-generator)**
+- **[Easing Gradients](https://easings.net/)**
 - **[Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)**
 - **[CSS Clip-Path Maker](https://bennettfeely.com/clippy/)**
 - **[Neumorphism.io – Soft UI Generator](https://neumorphism.io/)**
