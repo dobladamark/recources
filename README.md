@@ -12,7 +12,7 @@
 - **[CSS Battle – Code Golf](https://cssbattle.dev/)**
 - **[Flexbox Froggy](https://flexboxfroggy.com/)**
 - **[Grid Garden](https://cssgridgarden.com/)**
-- **[Inspect Recources](https://www.inspectph.com/)**
+
 
 ---
 
@@ -28,6 +28,7 @@
 - **[Neumorphism.io – Soft UI Generator](https://neumorphism.io/)**
 - **[Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator)**
 - **[Haikei – SVG Patterns & Blobs](https://haikei.app/)**
+- **[Inspect Recources](https://www.inspectph.com/)**
 
 ---
 
